@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Controllo
+comment1.params=
+comment1.target=Controllo()
+comment10.params=
+comment10.target=void\ azzeramento()
+comment11.params=
+comment11.target=java.lang.String\ REC()
+comment2.params=carta
+comment2.target=int\ Checkcarta(java.lang.String)
+comment3.params=Pssw
+comment3.target=int\ CheckPssw(java.lang.String)
+comment4.params=Cellulare
+comment4.target=int\ Cell(java.lang.String)
+comment5.params=mobile
+comment5.target=void\ compagnia(java.lang.String)
+comment6.params=money
+comment6.target=void\ contabile(java.lang.String)
+comment7.params=move
+comment7.target=void\ movimenti(java.lang.String)
+comment8.params=
+comment8.target=void\ action()
+comment9.params=charity
+comment9.target=void\ donare(java.lang.String)
+numComments=12
